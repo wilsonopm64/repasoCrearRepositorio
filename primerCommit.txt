@@ -1,3 +1,6 @@
 Aqui inicia el primer texto para repasar lo aprendido en el curso de git
 
 Tengo 50 años y estudio Bachillerato
+
+Perdon no tengo 50 años, tengo 56 y soy Ingeniero en Informatica. 
+Esto es para el commit 2.
