@@ -1,8 +1,8 @@
 Aqui inicia el primer texto para repasar lo aprendido en el curso de git
 Tengo 50 años y estudio Bachillerato
 PERDON NO TENGO 50 AÑOS , TENGO 56 AÑOS Y SOY INGENIERO EN IFORMATICA 
-(las mayusculas fueron escritas en el primer commit de la rama developer)
-Perdon no tengo 50 años, tengo 56 y soy Ingeniero en Informatica. 
+(las mayusculas fueron escritas en el primer commit de la rama developer y la
+ linea original fue borrado en el commit2 de developer.)
 Aqui termina el texto original de la rama master.
 
 Hola nuevamente estoy iniciando un nuevo texto para agrgarlo como
