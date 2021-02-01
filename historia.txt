@@ -1,6 +1,6 @@
 Esta es mi historia brevemente contada en el curso de Git y Github
 
-EL CONTENIDO DE ESTA LINEA NO TIENE NADA QUE VER CON EL DOCUMENTO
+Esta es la linea creada, para simular un conflicto entre ramas.
 
 Perdon tengo 56 años 
 y estoy aprendiendo a programar todavia.
